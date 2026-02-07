@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-02-07T14:16:49 IST" name="Default suite" finished-at="2026-02-07T14:17:11 IST" duration-ms="21956">
+    <groups>
+    </groups>
+    <test started-at="2026-02-07T14:16:49 IST" name="Default test" finished-at="2026-02-07T14:17:11 IST" duration-ms="21956">
+      <class name="com.Automation.test.TC004">
+        <test-method is-config="true" signature="launch()[pri:0, instance:com.Automation.test.TC004@4007f65e]" started-at="2026-02-07T14:16:50 IST" name="launch" finished-at="2026-02-07T14:16:53 IST" duration-ms="3076" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method is-config="true" signature="Login()[pri:0, instance:com.Automation.test.TC004@4007f65e]" started-at="2026-02-07T14:16:53 IST" name="Login" finished-at="2026-02-07T14:16:53 IST" duration-ms="230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="execution()[pri:0, instance:com.Automation.test.TC004@4007f65e]" started-at="2026-02-07T14:16:53 IST" name="execution" finished-at="2026-02-07T14:17:09 IST" duration-ms="16208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- execution -->
+        <test-method is-config="true" signature="Logout()[pri:0, instance:com.Automation.test.TC004@4007f65e]" started-at="2026-02-07T14:17:09 IST" name="Logout" finished-at="2026-02-07T14:17:09 IST" duration-ms="165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.Automation.test.TC004@4007f65e]" started-at="2026-02-07T14:17:09 IST" name="close" finished-at="2026-02-07T14:17:11 IST" duration-ms="2209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.Automation.test.TC004 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
